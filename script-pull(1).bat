@@ -1,1 +1,0 @@
-git pull git@github.com:rupasovk/saves.git
